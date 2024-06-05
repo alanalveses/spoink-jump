@@ -178,7 +178,7 @@ function placePlatforms() {
             width : platformWidth,
             height : platformHeight
         }
-    
+
         platformArray.push(platform);
     }
 }
